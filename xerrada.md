@@ -94,11 +94,13 @@ Eric Hughes - Cypherpunk manifesto, 1993
 <img src="img/reward.png" width="300" align="right">
 
 ---
+## Blockchain [diagrama]
+<!-- template: -->
+<img src="img/blockchain_diagrama.png" width="600" >
 
-## Resum
 
 ---
-
+<!-- template: invert-->
 ## Blockchain [rel.levancia]
 
 * **base de dades disitribuïda** on els actors no necessiten ser de confiança
@@ -114,6 +116,16 @@ _A més  a més plataformes com Ethereum permeten l'execució de programes en el
 # 3. Desmitificant BitCoin
 
 ---
+
+## Bitcoin i Capitalisme
+
+* el sistema es basa en un creixement infinit
+>Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat
+* fomenta i depèn en la competència
+>Els miners han de competir entre ells per generar nous blocs d'informació. Qui més recursos té, més en guanya.
+* fomenta les "grans empreses" de miners per reduïr la variança i assegurar la recompensa
+
+---
 ## Ús i abús de la blockchain
 
 * Nova 'criptoeconomia' no regulada i volàtil.
@@ -122,6 +134,18 @@ _A més  a més plataformes com Ethereum permeten l'execució de programes en el
 * Nous incentius per a infectar màquines i aprofitar-ne els recursos per a minar.
 
 ---
+
+## L'estafa dels darrers anys
+1. Shitty Coins (2013)
+Treure noves crypto-monedes (normalment copiant altres) i esperar el _pump&sell_
+2. ICO (2016)
+Crowdfundings amb recompensa. Casos on l'inversió és multiplica per x1000. ¿Model startup?
+3. Hard Forks (2017)
+Divisions de la cadena amb un altre nóm. A tothom se li dupliquen les unitats de moneda. Generem valor sense fonament!
+4. What's next?
+
+---
+
 ## Exemples recents
 
 - Veneçuela, Iran, Canon, Nostrum, Facebook, Telegram...
