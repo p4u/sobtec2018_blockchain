@@ -137,13 +137,13 @@ _A més  a més plataformes com Ethereum permeten l'execució de 'programes' en 
 ---
 
 ## L'estafa dels darrers anys
-1. Shitty Coins (2013)
+1. **Shitty Coins (2013)**
 Treure noves crypto-monedes (normalment copiant altres) i esperar el _pump&sell_
-2. ICO (2016)
+2. **ICO (2016)**
 Crowdfundings amb recompensa. Casos on l'inversió és multiplica per x1000. ¿Model startup?
-3. Hard Forks (2017)
+3. **Hard Forks (2017)**
 Divisions de la cadena amb un altre nom. A tothom se li dupliquen les unitats de moneda. Generem valor sense fonament!
-4. What's next?
+4. **What's next?**
 
 ---
 
@@ -154,14 +154,15 @@ Divisions de la cadena amb un altre nom. A tothom se li dupliquen les unitats de
 ![](img/icetea.png)
 
 ---
-
-
----
 ## Privacitat
 
 - Bitcoin i la majoria de blockchains son pseudónimes i totalment _transparents._
 * Permeten l'anàlisi i traçabilitat per part d'Estats, empreses privades, agéncies com l'FBI, etc.
 ![](img/bitfury.png)
+
+---
+![](img/blockseer.jpg)
+
 ---
 ## Consum d'energia
 - Dades 2017
