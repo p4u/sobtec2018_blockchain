@@ -121,9 +121,13 @@ _A més  a més plataformes com Ethereum permeten l'execució de 'programes' en 
 ## Bitcoin i Capitalisme
 
 * el sistema es basa en un creixement infinit
->Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat.
+
+Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat.
+
 * fomenta i depèn en la competència 
->Els miners han de competir entre ells per generar nous blocs d'informació. Qui més recursos té, més en guanya.
+
+Els miners han de competir entre ells per generar nous blocs d'informació. Qui més recursos té, més en guanya.
+
 * fomenta les "grans empreses" de miners per reduïr la variança i assegurar la recompensa 
 
 ---
@@ -134,6 +138,10 @@ _A més  a més plataformes com Ethereum permeten l'execució de 'programes' en 
 * Especulació i (re)valorització independent de la seva utilitat real
 * Hiper-tokenització.
 * Nous incentius per a infectar màquines i aprofitar-ne els recursos per a minar.
+
+---
+
+![](img/blockseer.jpg)
 
 ---
 
@@ -158,7 +166,7 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 
 ---
 
-## L'estafa dels darrers anys (2)
+## L'estafa dels darrers anys (3)
 
 ### Hard Forks (2017)
 * Divisions de la cadena en un punt que generen una nova cadena i per tant una nova moneda.
@@ -170,18 +178,12 @@ logos....
 
 ---
 
-
----
-
 ## Hiper-tokenització
 
 - El "hype" del terme BlockChain atreu a inversors i especuladors. Qualsevol idea, per dolenta que sigui, pot aconseguir fons monetaris.
 - Veneçuela (Petro), Iran, Canon, Nostrum, Facebook, Telegram...
 
 ![](img/icetea.png)
-
----
-
 
 ---
 ## Privacitat
