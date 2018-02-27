@@ -37,8 +37,9 @@ Eric Hughes - Cypherpunk manifesto, 1993
 
 ---
 
-# (Portada Times)
-->> The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.
+# The Times 03/Jan/2009
+
+![](img/times.jpg)
 
 ---
 
@@ -109,7 +110,7 @@ Eric Hughes - Cypherpunk manifesto, 1993
 
 **Exemples:** Sistema monetari, notaria, vot electrònic, Crowdfundings, etc...
 
-_A més  a més plataformes com Ethereum permeten l'execució de programes en el blockchain._
+_A més  a més plataformes com Ethereum permeten l'execució de 'programes' en el blockchain._
 
 ---
 
@@ -120,10 +121,10 @@ _A més  a més plataformes com Ethereum permeten l'execució de programes en el
 ## Bitcoin i Capitalisme
 
 * el sistema es basa en un creixement infinit
->Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat
-* fomenta i depèn en la competència
+>Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat.
+* fomenta i depèn en la competència 
 >Els miners han de competir entre ells per generar nous blocs d'informació. Qui més recursos té, més en guanya.
-* fomenta les "grans empreses" de miners per reduïr la variança i assegurar la recompensa
+* fomenta les "grans empreses" de miners per reduïr la variança i assegurar la recompensa 
 
 ---
 ## Ús i abús de la blockchain
@@ -141,25 +142,26 @@ Treure noves crypto-monedes (normalment copiant altres) i esperar el _pump&sell_
 2. ICO (2016)
 Crowdfundings amb recompensa. Casos on l'inversió és multiplica per x1000. ¿Model startup?
 3. Hard Forks (2017)
-Divisions de la cadena amb un altre nóm. A tothom se li dupliquen les unitats de moneda. Generem valor sense fonament!
+Divisions de la cadena amb un altre nom. A tothom se li dupliquen les unitats de moneda. Generem valor sense fonament!
 4. What's next?
 
 ---
 
-## Exemples recents
+## Hiper-tokenització
 
-- Veneçuela, Iran, Canon, Nostrum, Facebook, Telegram...
----
-titular Ice Tea
+- Veneçuela (Petro), Iran, Canon, Nostrum, Facebook, Telegram...
+
+![](img/icetea.png)
 
 ---
-Cryptokitties?
+
 
 ---
 ## Privacitat
 
 - Bitcoin i la majoria de blockchains son pseudónimes i totalment _transparents._
 * Permeten l'anàlisi i traçabilitat per part d'Estats, empreses privades, agéncies com l'FBI, etc.
+![](img/bitfury.png)
 ---
 ## Consum d'energia
 - Dades 2017
