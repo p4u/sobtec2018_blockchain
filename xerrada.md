@@ -12,8 +12,8 @@
 ## Desmitificant BlockChain
 
 
-==Abel vdo@==
-==Pau - <p4u@dabax.net> PGP:5CF989CD==
+==Abel - <vdo@greyfaze.net> PGP:4EE1184B ==
+==Pau - <p4u@dabax.net> PGP:5CF989CD ==
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ## Història
-* **Cypherpunk**
+* **Cypherpunk** (finals dels 80)
 * Criptografia **asimétrica**
 (Phil Zimmermann, PGP, 1991)
 * **Proof of Work** d'Adam Back (e-mail)
@@ -31,16 +31,27 @@
 
 ---
 
+ _... We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money._ 
+
+Eric Hughes - Cypherpunk manifesto, 1993
+
+---
+
+# (Portada Times)
+->> The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.
+
+---
+
 # 2. Blockchain
 
 ---
 
 ## BlockChain (definició)
 
-* base de dades distribuïda
-* ordenada i inmutable
-* verificada mitjançant criptografia
-* velocitat de creixement control·lada i estipulada
+* Base de dades distribuïda
+* Ordenada i inmutable
+* Verificada mitjançant criptografia
+* Velocitat de creixement control·lada i estipulada
 
 <img src="img/blockchain.png" width="310" align="right">
 
@@ -49,8 +60,8 @@
 
 ## Blockchain [blocs i miners]
 
-* informació classificada en _blocs_
-* només els _miners_ poden crear blocs
+* Informació classificada en _blocs_
+* Només els _miners_ poden crear blocs
 * BitCoin: 1 bloc = 1 MByte (max)
 
 <img src="img/miner.png" width="500" align="left">
@@ -69,7 +80,7 @@
 
 ---
 
-### dificultat i hashrate ultims 9 mesos
+### Dificultat i hashrate ultims 9 mesos
 
 ![](img/dificulty_hashrate.png)
 
@@ -88,12 +99,13 @@
 
 ---
 
-## Blockchain [rellevancia]
+## Blockchain [rel.levancia]
 
-* **base de dades dsitrbuïda** on els actors no necessiten ser de confiança
-*  **registre inmutable** i ordenat de dades amb marca de temps (timestamp)
+* **base de dades disitribuïda** on els actors no necessiten ser de confiança
+* **registre inmutable** i ordenat de dades amb marca de temps (timestamp)
+* Dissenyada per a evitar centralització i/o censura.
 
-**Exemples:** Sistema monetari, notaria, vot electrònic, CrowdFundings, etc...
+**Exemples:** Sistema monetari, notaria, vot electrònic, Crowdfundings, etc...
 
 _A més  a més plataformes com Ethereum permeten l'execució de programes en el blockchain._
 
@@ -101,7 +113,32 @@ _A més  a més plataformes com Ethereum permeten l'execució de programes en el
 
 # 3. Desmitificant BitCoin
 
---
+---
+## Ús i abús de la blockchain
 
+* Nova 'criptoeconomia' no regulada
+* Especulació
+* Hiper-tokenització
+* (Re)Valorització independent de la seva utilitat real
 
+---
+## Exemples recents
 
+- Veneçuela, Iran, Canon, Nostrum, Facebook, Telegram
+---
+
+## Privacitat
+
+- Bitcoin i la majoria de blockchains son pseudónimes i totalment _transparents._
+
+---
+## Energia
+- Dades 2017
+- Comparativa amb països
+
+---
+## Energia
+
+- Canvi de Proof-of-Work a Proof-of-Stake (?)
+	- Seguretat no probada.
+	- Incentiva l'acumulació de capital. 	
