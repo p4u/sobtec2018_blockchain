@@ -141,10 +141,6 @@ Els miners han de competir entre ells per generar nous blocs d'informació. Qui 
 
 ---
 
-![](img/blockseer.jpg)
-
----
-
 ## L'estafa dels darrers anys (1)
 
 ### Scam Coins (2013): _monedes basura_
@@ -188,10 +184,14 @@ logos....
 ---
 ## Privacitat
 
-- Bitcoin i la majoria de BlockChains no són anònimes però totalment _transparents._
+- Bitcoin i la majoria de blockchains no són anònimes, mes aviat totalment _transparents._
 * Permeten l'anàlisi i traçabilitat per part d'Estats, empreses privades, agéncies com l'FBI, etc.
 
 <img src="img/bitfury.png" width="750" align="right" >
+
+---
+
+![](img/blockseer.jpg)
 
 ---
 ## Consum d'energia
@@ -205,7 +205,8 @@ logos....
 	- Seguretat no probada.
 	- Incentiva l'acumulació de capital.
 - Proof of Authority i Proof of Cooperation
-	- Recentralitzen la descentralització  
+	- Recentralitzen la descentralització.
+	- Requereixen confiança.
 	
 No hi ha una sol.lució segura, probada i energéticament sostenible a hores d'ara.
 
