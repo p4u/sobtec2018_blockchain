@@ -116,29 +116,39 @@ _A més  a més plataformes com Ethereum permeten l'execució de programes en el
 ---
 ## Ús i abús de la blockchain
 
-* Nova 'criptoeconomia' no regulada
-* Especulació
-* Hiper-tokenització
-* (Re)Valorització independent de la seva utilitat real
+* Nova 'criptoeconomia' no regulada i volàtil.
+* Especulació i (re)valorització independent de la seva utilitat real
+* Hiper-tokenització.
+* Nous incentius per a infectar màquines i aprofitar-ne els recursos per a minar.
 
 ---
 ## Exemples recents
 
-- Veneçuela, Iran, Canon, Nostrum, Facebook, Telegram
+- Veneçuela, Iran, Canon, Nostrum, Facebook, Telegram...
 ---
+titular Ice Tea
 
+---
+Cryptokitties?
+
+---
 ## Privacitat
 
 - Bitcoin i la majoria de blockchains son pseudónimes i totalment _transparents._
-
+* Permeten l'anàlisi i traçabilitat per part d'Estats, empreses privades, agéncies com l'FBI, etc.
 ---
-## Energia
+## Consum d'energia
 - Dades 2017
 - Comparativa amb països
 
 ---
-## Energia
+## Consum d'energia
 
 - Canvi de Proof-of-Work a Proof-of-Stake (?)
 	- Seguretat no probada.
-	- Incentiva l'acumulació de capital. 	
+	- Incentiva l'acumulació de capital.
+	
+    
+- No hi ha una sol.lució segura, probada i energéticament sostenible hores d'ara.
+---
+## Preguntes i debat
