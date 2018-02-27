@@ -130,25 +130,52 @@ _A més  a més plataformes com Ethereum permeten l'execució de 'programes' en 
 ## Ús i abús de la blockchain
 
 * Nova 'criptoeconomia' no regulada i volàtil.
+* Manipulació de mercats constant
 * Especulació i (re)valorització independent de la seva utilitat real
 * Hiper-tokenització.
 * Nous incentius per a infectar màquines i aprofitar-ne els recursos per a minar.
 
 ---
 
-## L'estafa dels darrers anys
-1. Shitty Coins (2013)
+## L'estafa dels darrers anys (1)
+
+### Scam Coins (2013): _monedes basura_
 Treure noves crypto-monedes (normalment copiant altres) i esperar el _pump&sell_
-2. ICO (2016)
-Crowdfundings amb recompensa. Casos on l'inversió és multiplica per x1000. ¿Model startup?
-3. Hard Forks (2017)
-Divisions de la cadena amb un altre nom. A tothom se li dupliquen les unitats de moneda. Generem valor sense fonament!
-4. What's next?
+
+DogeCoin, MaihuanaCoin, SexyCoin, CataloniaCoin, etc.
+
+logos monedes...
+
+---
+## L'estafa dels darrers anys (2)
+
+### ICO (2016): _initial coin offering_
+* Crowdfundings amb recompensa o ¿Model startup?
+* Casos on l'inversió és multiplica per x1000
+* Un cop tancada la ICO no hi ha control sobre el projecte per part dels inversors
+
+Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en algun moment es revaloritzarà.
+
+---
+
+## L'estafa dels darrers anys (2)
+
+### Hard Forks (2017)
+* Divisions de la cadena en un punt que generen una nova cadena i per tant una nova moneda.
+* A tothom se li dupliquen les unitats de moneda. Generem valor sense fonament!
+
+BitCoin-Cash, BitCoin-Gold, BitCoin-Private
+
+logos....
+
+---
+
 
 ---
 
 ## Hiper-tokenització
 
+- El "hype" del terme BlockChain atreu a inversors i especuladors. Qualsevol idea, per dolenta que sigui, pot aconseguir fons monetaris.
 - Veneçuela (Petro), Iran, Canon, Nostrum, Facebook, Telegram...
 
 ![](img/icetea.png)
@@ -159,9 +186,11 @@ Divisions de la cadena amb un altre nom. A tothom se li dupliquen les unitats de
 ---
 ## Privacitat
 
-- Bitcoin i la majoria de blockchains son pseudónimes i totalment _transparents._
+- Bitcoin i la majoria de BlockChains no són anònimes però totalment _transparents._
 * Permeten l'anàlisi i traçabilitat per part d'Estats, empreses privades, agéncies com l'FBI, etc.
-![](img/bitfury.png)
+
+<img src="img/bitfury.png" width="750" align="right" >
+
 ---
 ## Consum d'energia
 - Dades 2017
@@ -173,8 +202,10 @@ Divisions de la cadena amb un altre nom. A tothom se li dupliquen les unitats de
 - Canvi de Proof-of-Work a Proof-of-Stake (?)
 	- Seguretat no probada.
 	- Incentiva l'acumulació de capital.
+- Proof of Authority i Proof of Cooperation
+	- Recentralitzen la descentralització  
 	
-    
-- No hi ha una sol.lució segura, probada i energéticament sostenible hores d'ara.
+No hi ha una sol.lució segura, probada i energéticament sostenible a hores d'ara.
+
 ---
 ## Preguntes i debat
