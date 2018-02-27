@@ -134,8 +134,8 @@ Els miners han de competir entre ells per generar nous blocs d'informació. Qui 
 ## Ús i abús de la blockchain
 
 * Nova 'criptoeconomia' no regulada i volàtil.
-* Manipulació de mercats constant
-* Especulació i (re)valorització independent de la seva utilitat real
+* Manipulació de mercats constant.
+* Especulació i (re)valorització independent de la seva utilitat real.
 * Hiper-tokenització.
 * Nous incentius per a infectar màquines i aprofitar-ne els recursos per a minar.
 
@@ -194,16 +194,20 @@ logos....
 ![](img/blockseer.jpg)
 
 ---
-## Consum d'energia
-- Dades 2017
-- Comparativa amb països
+## Consum d'energia (2017)
+- 18.4 TWh / any. (aprox)
+- Consum anual d'energia comparable a Islàndia.
+
+
+http://blog.zorinaq.com/bitcoin-electricity-consumption/
+
 
 ---
 ## Consum d'energia
 
 - Canvi de Proof-of-Work a Proof-of-Stake (?)
 	- Seguretat no probada.
-	- Incentiva l'acumulació de capital.
+	- Incentiva l'acumulació de capital en els validadors.
 - Proof of Authority i Proof of Cooperation
 	- Recentralitzen la descentralització.
 	- Requereixen confiança.
