@@ -9,7 +9,7 @@
 # ![](img/logo_congres.png)
 
 
-## Desmitificant BlockChain
+## Blockchain: Un univers contradictori
 
 
 ==Abel - <vdo@greyfaze.net> PGP:4EE1184B ==
@@ -124,11 +124,11 @@ _A més  a més plataformes com Ethereum permeten l'execució de 'programes' en 
 
 Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat. ***
 
-* fomenta la competència i economia d'escala.
+* Fomenta la competència i economies d'escala.
 
 Els miners han de competir entre ells per generar nous blocs d'informació. Qui més recursos té, més en guanya.
 
-* fomenta les "grans empreses" de miners per reduïr la variança i assegurar la recompensa 
+* Fomenta les "grans empreses" de miners per reduïr la variança i assegurar la recompensa 
 
 ---
 ## Ús i abús de la blockchain
