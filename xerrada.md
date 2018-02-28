@@ -47,10 +47,10 @@ Eric Hughes - Cypherpunk manifesto, 1993
 
 ---
 
-## BlockChain (definició)
+## Blockchain [definició]
 
 * Base de dades distribuïda
-* Ordenada i inmutable
+* Ordenada i inmutable (hashing)
 * Verificada mitjançant criptografia
 * Velocitat de creixement control·lada i estipulada
 
@@ -63,36 +63,36 @@ Eric Hughes - Cypherpunk manifesto, 1993
 
 * Informació classificada en _blocs_
 * Només els _miners_ poden crear blocs
-* BitCoin: 1 bloc = 1 MByte (max)
+* Bitcoin: 1 bloc = 1 MByte (max)
 
-<img src="img/miner.png" width="500" align="left">
+<img src="img/mining.png" width="300" align="right">
 
 ---
 
 ## Blockchain [creixement]
 
-* creixement control·lat amb problema matemàtic
-* dificultat proporcional al poder de còmput global
-* cada N blocs es recalcula la dificultat
-* BitCoin: _1 bloc cada 10 Minuts_
+* Creixement control·lat amb problema matemàtic.
+* Dificultat proporcional al poder de còmput global.
+* Cada N blocs es recalcula la dificultat.
+* Bitcoin: _1 bloc cada 10 Minuts_.
 
 
 <img src="img/gears.png" width="380" align="right">
 
 ---
 
-### Dificultat i hashrate ultims 9 mesos
+### Dificultat i hashrate: últims 9 mesos
 
 ![](img/dificulty_hashrate.png)
 
 ---
 
 ## Blockchain [recompensa]
-* per incentivar la mineria hi ha una **recompensa**
-* en el BitCoin inicialment 50 BTC
-* cada 4 anys es redueix a la meitat (210k blocs)
+* Per incentivar la mineria hi ha una **recompensa**
+* En Bitcoin inicialment 50 BTC. Actualment 12.5
+* Cada 4 anys (210k blocs) es redueix a la meitat.
 
-<img src="img/reward.png" width="300" align="right">
+<img src="img/reward.png" width="200" align="right">
 
 ---
 ## Blockchain [diagrama]
@@ -104,8 +104,8 @@ Eric Hughes - Cypherpunk manifesto, 1993
 <!-- template: invert-->
 ## Blockchain [rel.levancia]
 
-* **base de dades disitribuïda** on els actors no necessiten ser de confiança
-* **registre inmutable** i ordenat de dades amb marca de temps (timestamp)
+* **Base de dades disitribuïda** on els actors no necessiten ser de confiança.
+* **Registre inmutable** i ordenat de dades amb marca de temps (timestamp).
 * Dissenyada per a evitar centralització i/o censura.
 
 **Exemples:** Sistema monetari, notaria, vot electrònic, Crowdfundings, etc...
@@ -114,17 +114,17 @@ _A més  a més plataformes com Ethereum permeten l'execució de 'programes' en 
 
 ---
 
-# 3. Desmitificant BitCoin
+# 3. Desmitificant Bitcoin
 
 ---
 
 ## Bitcoin i Capitalisme
 
-* el sistema es basa en un creixement infinit
+* El sistema es basa en un creixement infinit.
 
-Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat.
+Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat. ***
 
-* fomenta i depèn en la competència 
+* fomenta la competència i economia d'escala.
 
 Els miners han de competir entre ells per generar nous blocs d'informació. Qui més recursos té, més en guanya.
 
@@ -176,7 +176,7 @@ logos....
 
 ## Hiper-tokenització
 
-- El "hype" del terme BlockChain atreu a inversors i especuladors. Qualsevol idea, per dolenta que sigui, pot aconseguir fons monetaris.
+- El "hype" del terme Blockchain atreu a inversors i especuladors. Qualsevol idea, per absurda que sigui, pot aconseguir fons monetaris.
 - Veneçuela (Petro), Iran, Canon, Nostrum, Facebook, Telegram...
 
 ![](img/icetea.png)
@@ -196,10 +196,13 @@ logos....
 ---
 ## Consum d'energia (2017)
 - 18.4 TWh / any. (aprox)
-- Consum anual d'energia comparable a Islàndia.
+- Consum anual comparable a Islàndia.
+- A aquest ritme, consum del 100% el 2020 (?)
+<img src="img/world_mining.png" width="650" align="right" >
 
 
-http://blog.zorinaq.com/bitcoin-electricity-consumption/
+
+
 
 
 ---
