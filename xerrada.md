@@ -74,10 +74,12 @@ Eric Hughes - Cypherpunk manifesto, 1993
 * Creixement control·lat amb problema matemàtic.
 * Dificultat proporcional al poder de còmput global.
 * Cada N blocs es recalcula la dificultat.
-* Bitcoin: _1 bloc cada 10 Minuts_.
+* Bitcoin: 
+* 		1 bloc cada 10 Minuts
+		reajust cada 2048 blocs (~14 dies)
 
 
-<img src="img/gears.png" width="380" align="right">
+<img src="img/gears.png" width="260" align="right">
 
 ---
 
@@ -97,7 +99,7 @@ Eric Hughes - Cypherpunk manifesto, 1993
 ---
 ## Blockchain [diagrama]
 <!-- template: -->
-<img src="img/blockchain_diagrama.png" width="600" >
+<img src="img/blockchain_diagrama.png" width="650" >
 
 
 ---
@@ -144,19 +146,20 @@ Els miners han de competir entre ells per generar nous blocs d'informació. Qui 
 ## L'estafa dels darrers anys (1)
 
 ### Scam Coins (2013): _monedes 'brossa'_
-Crear noves criptomonedes (normalment copiant altres) i esperar el _pump&sell_
+Crear noves criptomonedes (normalment copiant altres), fer que entrin en algun mercat (normalment partíceps) i esperar el _pump&sell_
 
-DogeCoin, MaihuanaCoin, SexyCoin, CataloniaCoin, etc.
+>DogeCoin, PotCoin, TrumpCoin, SexCoin, etc.
 
-logos monedes...
+<img src="img/scam_coins.png" width="640" align="right" >
 
 ---
 ## L'estafa dels darrers anys (2)
 
 ### ICO (2016): _initial coin offering_
-* Crowdfundings amb recompensa o ¿Model startup?
-* Casos on l'inversió és multiplica per x1000
-* Un cop tancada la ICO no hi ha control sobre el projecte per part dels inversors
+* Crowdfundings amb recompensa  ¿Model startup?
+* Normalment la ICO reparteix un token o moneda entre els seus inversors.
+* Casos on l'inversió és multiplica per x1000.
+* Un cop tancada la ICO no hi ha control sobre el projecte per part dels inversors.
 
 Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en algun moment es revaloritzarà.
 
@@ -168,9 +171,12 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 * Divisions de la cadena en un punt que generen una nova cadena i per tant una nova moneda.
 * A tothom se li dupliquen les unitats de moneda. Generem valor sense fonament!
 
-BitCoin-Cash, BitCoin-Gold, BitCoin-Private
+<img src="img/scam_forks.png" width="740" align="right" >
 
-logos....
+---
+
+<img src="img/quartet_crypto.png" width="740" align="right" >
+
 
 ---
 
@@ -198,15 +204,11 @@ logos....
 - 18.4 TWh / any. (aprox)
 - Consum anual comparable a Islàndia.
 - A aquest ritme, consum del 100% el 2020 (?)
+
 <img src="img/world_mining.png" width="650" align="right" >
 
-
-
-
-
-
 ---
-## Consum d'energia
+## Alternatives al consum d'energia?
 
 - Canvi de Proof-of-Work a Proof-of-Stake (?)
 	- Seguretat no probada.
@@ -224,6 +226,14 @@ El potencial ambivalent d'una tecnologia disruptiva:
 * Alliberament dels bancs i els estats, o perpetuament de desigualtats económiques?
 * Llibertat individual vs models col.lectius en Blockchain (?)
 * Contrast amb IA
+
+---
+## Satoshi
+
+>Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts.
+
+>Yes, [we will not find a solution to political problems in cryptography,] but we can win a major battle in the arms race and gain a new territory of freedom for several years.
+
 
 ---
 ## Preguntes i debat
