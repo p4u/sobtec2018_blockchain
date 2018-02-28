@@ -200,11 +200,6 @@ logos....
 - A aquest ritme, consum del 100% el 2020 (?)
 <img src="img/world_mining.png" width="650" align="right" >
 
-
-
-
-
-
 ---
 ## Consum d'energia
 
@@ -222,8 +217,8 @@ No hi ha una sol.lució segura, probada i energéticament sostenible a hores d'a
 El potencial ambivalent d'una tecnologia disruptiva:
 
 * Alliberament dels bancs i els estats, o perpetuament de desigualtats económiques?
-* Llibertat individual vs models col.lectius en Blockchain (?)
-* Contrast amb IA
+* Llibertat individual vs models col.lectius en Blockchain.
+* Contrast amb l'IA
 
 ---
 ## Preguntes i debat
