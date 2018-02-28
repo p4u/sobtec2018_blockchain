@@ -143,8 +143,8 @@ Els miners han de competir entre ells per generar nous blocs d'informació. Qui 
 
 ## L'estafa dels darrers anys (1)
 
-### Scam Coins (2013): _monedes basura_
-Treure noves crypto-monedes (normalment copiant altres) i esperar el _pump&sell_
+### Scam Coins (2013): _monedes 'brossa'_
+Crear noves criptomonedes (normalment copiant altres) i esperar el _pump&sell_
 
 DogeCoin, MaihuanaCoin, SexyCoin, CataloniaCoin, etc.
 
@@ -216,6 +216,14 @@ logos....
 	- Requereixen confiança.
 	
 No hi ha una sol.lució segura, probada i energéticament sostenible a hores d'ara.
+
+--- 
+## Conclusions
+El potencial ambivalent d'una tecnologia disruptiva:
+
+* Alliberament dels bancs i els estats, o perpetuament de desigualtats económiques?
+* Llibertat individual vs models col.lectius en Blockchain (?)
+* Contrast amb IA
 
 ---
 ## Preguntes i debat
