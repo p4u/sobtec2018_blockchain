@@ -174,8 +174,9 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 <img src="img/scam_forks.png" width="740" align="right" >
 
 ---
+## L'estafa dels darrers anys (4)
 
-<img src="img/quartet_crypto.png" width="740" align="right" >
+<img src="img/quartet_crypto.png" width="700" align="right" >
 
 
 ---
@@ -185,7 +186,8 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 - El "hype" del terme Blockchain atreu a inversors i especuladors. Qualsevol idea, per absurda que sigui, pot aconseguir fons monetaris.
 - Veneçuela (Petro), Iran, Canon, Nostrum, Facebook, Telegram...
 
-![](img/icetea.png)
+<img src="img/icetea.png" width="750" align="right" >
+
 
 ---
 ## Privacitat
@@ -224,8 +226,8 @@ No hi ha una sol.lució segura, probada i energéticament sostenible a hores d'a
 El potencial ambivalent d'una tecnologia disruptiva:
 
 * Alliberament dels bancs i els estats, o perpetuament de desigualtats económiques?
-* Llibertat individual vs models col.lectius en Blockchain (?)
-* Contrast amb IA
+* Llibertat individual vs models col.lectius en Blockchain.
+* Contrast amb l'IA
 
 ---
 ## Satoshi
