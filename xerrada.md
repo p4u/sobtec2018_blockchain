@@ -10,9 +10,16 @@
 ## Blockchain:
 ## Un univers contradictori
 
+==Abel - <vdo@greyfaze.net> PGP:0x4EE1184B==
+==Pau - <p4u@dabax.net> PGP:0x5CF989CD==
 
-==Abel - <vdo@greyfaze.net> PGP:4EE1184B ==
-==Pau - <p4u@dabax.net> PGP:5CF989CD ==
+---
+# Index
+
+1. Rerefons històric
+2. Blockchain
+3. Desmitificant Bitcoin
+4. Reflexió i debat
 
 ---
 # 1. Rerefons històric
@@ -22,7 +29,7 @@
 
 * **Cypherpunk** (finals dels 80)
 
->... We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money._ 
+>... We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money. 
 
 Eric Hughes - Cypherpunk manifesto, 1993
 
@@ -110,7 +117,7 @@ The Times 03/Jan/2009
 
 ---
 <!-- template: invert-->
-## Blockchain [rel.levancia]
+## Blockchain [rel·levància]
 
 * **Base de dades disitribuïda** on els actors no necessiten ser de confiança.
 * **Registre inmutable** i ordenat de dades amb marca de temps (timestamp).
@@ -226,21 +233,37 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 	
 No hi ha una sol.lució segura, probada i energéticament sostenible a hores d'ara.
 
---- 
-## Conclusions
-El potencial ambivalent d'una tecnologia disruptiva:
+---
+# 4. Reflexió
 
-* Alliberament dels bancs i els estats, o perpetuament de desigualtats económiques?
-* Llibertat individual vs models col.lectius en Blockchain.
-* Contrast amb l'IA
+---
+
+- Blockchain és una tecnologia que permet l'autogestió i soberania de les dades digitals.
+
+- Avui dia està sobre explotada i en la majoria dels casos només hi ha un interès econòmic darrera.
+
+- Els objectius de privacitat i anonimat s'estan difuminant, cal que siguin pilars centrals.
+
+- La seguretat i resiliència de la tecnologia ve donada per la decentralització, però la tendencia es centralitzadora.
+
+- Cal fer recerca per trobar solucions sostenibles energèticament.
 
 ---
 ## Satoshi
 
 >Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts.
 
->Yes, [we will not find a solution to political problems in cryptography,] but we can win a major battle in the arms race and gain a new territory of freedom for several years.
+>Yes, we will not find a solution to political problems in cryptography, but we can win a major battle in the arms race and gain a new territory of freedom for several years.
 
+--- 
+## Debat
+El potencial ambivalent d'una tecnologia disruptiva:
+
++ Autogestió econòmica VS Increment de desigualtats 
+
+* Intel.ligència artificial, Big data...: Al.liat o defensa?
+
+* Privacitat VS transparència
 
 ---
 ## Preguntes i debat
