@@ -244,9 +244,9 @@ No hi ha una sol.lució segura, probada i energéticament sostenible a hores d'a
 
 - Els objectius de privacitat i anonimat s'estan difuminant, cal que siguin pilars centrals.
 
-- La seguretat i resiliència de la tecnologia ve donada per la decentralització, però la tendencia es centralitzadora.
+- La seguretat i resiliència de la tecnologia ve donada per la decentralització, però la tendència es centralitzadora.
 
-- Cal fer recerca per trobar solucions sostenibles energèticament.
+- Cal fer recerca per trobar sol·lucions sostenibles energèticament.
 
 ---
 ## Satoshi
