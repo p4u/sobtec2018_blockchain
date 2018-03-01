@@ -4,42 +4,48 @@
 <!-- $size: 4:3 -->
 <!-- template: invert -->
 
-
-
 # ![](img/logo_congres.png)
 
 
-## Blockchain: Un univers contradictori
+## Blockchain:
+## Un univers contradictori
 
 
 ==Abel - <vdo@greyfaze.net> PGP:4EE1184B ==
 ==Pau - <p4u@dabax.net> PGP:5CF989CD ==
 
 ---
-
-# 1. Context històric
+# 1. Rerefons històric
 ---
 
-## Història
+## Història (1)
+
 * **Cypherpunk** (finals dels 80)
-* Criptografia **asimétrica**
-(Phil Zimmermann, PGP, 1991)
-* **Proof of Work** d'Adam Back (e-mail)
-* Xarxes **p2p** (e-Donkey, DHT, Torrent, etc...)
-* Nick Szabo, Hal Finney, Dai Wei, etc.
-* Satoshi Nakamoto (**Blockchain**)
 
----
-
- _... We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money._ 
+>... We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money._ 
 
 Eric Hughes - Cypherpunk manifesto, 1993
 
 ---
+## Història (2)
 
-# The Times 03/Jan/2009
+ * Criptografia **asimétrica**
+(Phil Zimmermann, PGP, 1991)
+* **Proof of Work** d'Adam Back (e-mail)
+* Xarxes **p2p**
+	* Napster 1999
+	* e-Donkey, Torrent, etc...
+* Nick Szabo, Hal Finney, Dai Wei, etc...
 
-![](img/times.jpg)
+---
+
+## Història (3)
+
+* Satoshi Nakamoto (**Blockchain**)
+
+The Times 03/Jan/2009
+
+<img src="img/times.jpg" width="710">
 
 ---
 
@@ -69,7 +75,7 @@ Eric Hughes - Cypherpunk manifesto, 1993
 
 ---
 
-## Blockchain [creixement]
+## Blockchain [creixement (PoW)]
 
 * Creixement control·lat amb problema matemàtic.
 * Dificultat proporcional al poder de còmput global.
@@ -83,7 +89,7 @@ Eric Hughes - Cypherpunk manifesto, 1993
 
 ---
 
-### Dificultat i hashrate: últims 9 mesos
+### Dificultat i hashrate: últims 12 mesos
 
 ![](img/dificulty_hashrate.png)
 
@@ -110,7 +116,7 @@ Eric Hughes - Cypherpunk manifesto, 1993
 * **Registre inmutable** i ordenat de dades amb marca de temps (timestamp).
 * Dissenyada per a evitar centralització i/o censura.
 
-**Exemples:** Sistema monetari, notaria, vot electrònic, Crowdfundings, etc...
+**Exemples:** Sistema monetari, notaria, vot electrònic, Crowdfundings, identitat digital, etc...
 
 _A més  a més plataformes com Ethereum permeten l'execució de 'programes' en el blockchain._
 
@@ -124,7 +130,7 @@ _A més  a més plataformes com Ethereum permeten l'execució de 'programes' en 
 
 * El sistema es basa en un creixement infinit.
 
-Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat. ***
+Satoshi és respatlla amb la llei de Moore per justificar la seva escalabilitat.
 
 * Fomenta la competència i economies d'escala.
 
@@ -136,10 +142,11 @@ Els miners han de competir entre ells per generar nous blocs d'informació. Qui 
 ## Ús i abús de la blockchain
 
 * Nova 'criptoeconomia' no regulada i volàtil.
-* Manipulació de mercats constant.
+* Manipulació de mercats constant (JP Morgan, etc.)
 * Especulació i (re)valorització independent de la seva utilitat real.
 * Hiper-tokenització.
 * Nous incentius per a infectar màquines i aprofitar-ne els recursos per a minar.
+* Spam i Phishing més avançat i rentable.
 
 ---
 
@@ -178,7 +185,6 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 
 <img src="img/quartet_crypto.png" width="700" align="right" >
 
-
 ---
 
 ## Hiper-tokenització
@@ -187,7 +193,6 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 - Veneçuela (Petro), Iran, Canon, Nostrum, Facebook, Telegram...
 
 <img src="img/icetea.png" width="750" align="right" >
-
 
 ---
 ## Privacitat
@@ -205,14 +210,14 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 ## Consum d'energia (2017)
 - 18.4 TWh / any. (aprox)
 - Consum anual comparable a Islàndia.
-- A aquest ritme, consum del 100% el 2020 (?)
+- A aquest ritme, consum equivalent al 100% el 2020 (?)
 
-<img src="img/world_mining.png" width="650" align="right" >
+<img src="img/world_mining.png" width="600" align="right" >
 
 ---
 ## Alternatives al consum d'energia?
 
-- Canvi de Proof-of-Work a Proof-of-Stake (?)
+- Proof-of-Stake
 	- Seguretat no probada.
 	- Incentiva l'acumulació de capital en els validadors.
 - Proof of Authority i Proof of Cooperation
