@@ -196,7 +196,7 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 
 ## Hiper-tokenització
 
-- El "hype" del terme Blockchain atreu a inversors i especuladors. Qualsevol idea, per absurda que sigui, pot aconseguir fons monetaris.
+- El "hype" del terme Blockchain atreu a inversors i especuladors. Qualsevol idea, per absurda que sigui, pot aconseguir fons monetaris a cost zero.
 - Veneçuela (Petro), Iran, Canon, Nostrum, Facebook, Telegram...
 
 <img src="img/icetea.png" width="750" align="right" >
@@ -210,14 +210,14 @@ Arribat un punt dòna igual l'objectiu del projecte a finançar, només si en al
 <img src="img/bitfury.png" width="750" align="right" >
 
 ---
+Eina d'anàlisi de Blockchain
 
-![](img/blockseer.jpg)
+<img src="img/blockseer.jpg" width="800"  >
 
 ---
 ## Consum d'energia (2017)
 - 18.4 TWh / any. (aprox)
 - Consum anual comparable a Islàndia.
-- A aquest ritme, consum equivalent al 100% el 2020 (?)
 
 <img src="img/world_mining.png" width="600" align="right" >
 
