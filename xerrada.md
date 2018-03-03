@@ -112,21 +112,20 @@ The Times 03/Jan/2009
 ---
 ## Blockchain [diagrama]
 <!-- template:  -->
-
 <img src="img/blockchain_diagrama_small.png" width="550" >
-
 
 ---
 <!-- template: invert-->
-## Blockchain [rel·levància]
+## Blockchain [sobirania]
 
 * **Base de dades disitribuïda** on els actors no necessiten ser de confiança.
 * **Registre inmutable** i ordenat de dades amb marca de temps (timestamp).
 * Dissenyada per a evitar centralització i/o censura.
 
+Ens allibera de la necessitat de dependència cap a tercers _intermediaris_
+
 **Exemples:** Sistema monetari, notaria, vot electrònic, Crowdfundings, identitat digital, etc...
 
-_A més  a més plataformes com Ethereum permeten l'execució de 'programes' en el blockchain._
 
 ---
 
