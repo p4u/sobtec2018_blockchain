@@ -18,7 +18,7 @@
 
 1. Rerefons històric
 2. Blockchain
-3. Desmitificant Bitcoin
+3. Desmitificant Bitcoin i Blockchain
 4. Reflexió i debat
 
 ---
@@ -111,8 +111,9 @@ The Times 03/Jan/2009
 
 ---
 ## Blockchain [diagrama]
-<!-- template: -->
-<img src="img/blockchain_diagrama.png" width="650" >
+<!-- template:  -->
+
+<img src="img/blockchain_diagrama_small.png" width="550" >
 
 
 ---
